@@ -1,0 +1,98 @@
+.merkez{
+    width: 1280px;
+    height: 720px;
+}
+
+.google{
+    width: 351px;
+    height: 113px;
+    margin-left: 750px;
+}
+
+.search{
+    width: 1418px;
+    height: 60px;
+    background-color:#EEEE;
+    margin-left: 150px;
+}
+
+.search_yazi{
+    text-align: center;
+    margin-left: 100px;
+}
+
+.arama{
+    margin-left: 600px;
+}
+
+.button_google{
+    float: left;
+    margin-left: 670px;
+}
+
+.button_luck{
+    float: left;
+}
+
+button a{
+    text-decoration: none;
+}
+
+.footer{
+    width: 1418px;
+    height: 76px;
+    margin-left: 150px;
+    margin-top: 3px;
+}
+
+.sol{
+   width: 525px;
+   height: 66px;
+   background-color: rgb(126, 229, 218);
+   float: left;
+   text-align: center;
+   padding-top: 10px;
+}
+
+.orta{
+   width: 268px;
+   height: 71px;
+   background-color: rgb(112, 204, 194);
+   float: left;
+   padding-top: 5px;
+}
+
+.sag{
+  width: 625px;
+  height: 76px;
+  background-color:rgb(98, 179, 170);
+  float: left;
+  font-size: small;
+}
+
+li{
+    list-style: none;
+}
+
+.orta_liste{
+    font-size: small;
+    text-align: center;
+}
+
+.footer_sag_div1{
+    margin-left: 300px;
+}
+
+.footer_sag_div2{
+    margin-left: 250px;
+}
+
+.footer_sag_div3{
+    margin-left: 290px;
+}
+
+.alt_yazi{
+    font-size: small;
+    margin-left: 750px;
+    margin-top: 30px;
+}
